@@ -1,0 +1,4 @@
+always-run:
+  tags: ["github-project-with-pipeline"]
+  script: echo 'this should always run'
+  
