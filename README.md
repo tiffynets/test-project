@@ -1,1 +1,2 @@
-Enim at veritatis blanditiis modi ullam quod molestias consequuntur.
+<h1>test-project</h1>
+This test project is used for automated GitHub import by GitLab QA.
